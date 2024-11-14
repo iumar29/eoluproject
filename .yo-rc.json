@@ -1,0 +1,26 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "baseName": "eoluproject",
+    "buildTool": "maven",
+    "cacheProvider": "ehcache",
+    "clientFramework": "react",
+    "clientPackageManager": "npm",
+    "clientTheme": null,
+    "creationTimestamp": 1731583399520,
+    "databaseType": "mongodb",
+    "devServerPort": 9060,
+    "enableTranslation": true,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "mySecretKey",
+    "languages": ["en"],
+    "microfrontend": false,
+    "nativeLanguage": null,
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": "eureka",
+    "testFrameworks": ["cucumber"],
+    "websocket": "spring-websocket"
+  }
+}
